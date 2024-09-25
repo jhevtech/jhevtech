@@ -1,7 +1,7 @@
  <b>Hi, I’m Jhevaughn👋<b>
  
 - I’m interested in software development (backend & mobile-flutter).👀 
-- Currently a sophomore in college, Studying Computer Engineering
+- Currently a Junior in college, Studying Computer Engineering
 - How to reach me: www.linkedin.com/in/jhevaughn-panton
   
 <h1> <b>💻 Current Endeavors </b></h1>
