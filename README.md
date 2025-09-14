@@ -1,6 +1,6 @@
  <b>Hi, I’m Jhevaughn👋<b>
  
-- I’m interested in Data Science/Engineering.👀 
+- I’m interested in Data Engineering.👀 
 - Currently a Junior in University, studying Computer Engineering
 - How to reach me: www.linkedin.com/in/jhevaughn-panton
   
