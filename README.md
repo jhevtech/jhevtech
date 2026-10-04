@@ -1,7 +1,7 @@
  <b>Hi, I’m Jhevaughn👋<b>
  
-- I’m interested in Data Engineering.👀 
-- Currently a Junior in University, studying Computer Engineering
+- I’m interested in Data Engineering & Embedded Systems. 
+- Currently a Senior in University, studying Computer Engineering while minoring in Economics 
 - How to reach me: www.linkedin.com/in/jhevaughn-panton
   
 <h1> <b>💻 Current Endeavors </b></h1>
