@@ -10,7 +10,7 @@
 
 ### 🚀 About Me
 
-I’m Jhevaughn, a Computer Engineering &amp; Economics student exploring embedded systems, and data.
+I’m Jhevaughn, a Computer Engineering &amp; Economics student exploring Embedded Systems, and Data.
 
 🌱 &nbsp;I'm currently learning **STM32 microcontroller and building data pipelines.**  
 ⚡ &nbsp;Fun fact: **Kimi Antonelli is the new GOAT  in Formula One!!**
@@ -29,6 +29,7 @@ I’m Jhevaughn, a Computer Engineering &amp; Economics student exploring embedd
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=vscodium&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white" alt="Vim" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
@@ -36,6 +37,7 @@ I’m Jhevaughn, a Computer Engineering &amp; Economics student exploring embedd
 
 <p align="left">
   <a href="http://www.linkedin.com/in/jhevaughn-panton"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:jhevaughn.panton045@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ### 📊 GitHub Stats
